@@ -8,17 +8,17 @@ A organização da Copa do Mundo de 2014 foi algo extremamente complexo, assim c
 
 Abaixo, algumas explicações sobre a categorização dos projetos:
 
-**- Empreendimento:** É o nome do projeto.
-**- Sede:** Em qual cidade-sede a intervenção foi tocada.
-**- Área:** O tipo do projeto. Pode ser estádio, mobilidade urbana, aeroporto, portos, segurança, telecomunicações, turismo, energia e instalações complementares.
-**- Ente Responsável:** Qual era o integrante do poder público ou o representante do setor privado responsável por concretrizar o projeto. Há casos em que essa atribuição foi compartilhada.
-**- Status na Copa (2014):** Qual era a situação do projeto na época da realização da Copa do Mundo. O empreendimento poderia estar concluído, entregue (sem estar 100% finalizado), não entregue, alterado, retirado da Matriz de Responsabilidade (mas tocado em outro programa) e abandonado. 
-**- Status em 2022:** Qual foi o fim do projeto oito anos depois. As classificações são: abandonado, retirado, paralisado, entregue (sem estar completo), em execução (obras em andamento) e concluído. 
-**- Início das obras:** Marca a data de início da construção ou da prestação do serviço.
-**- Fim das obras:** Quando os trabalhos foram finalizados.
-**- Orçamento Inicial:** Qual era a estimativa de custo do projeto na primeira versão da Matriz de Responsabilidades, entre 2010 e 2011.
-**- Orçamento (12/2014):** Qual era a previsão de gasto com tal empreendimento no ano da Copa. O balanço do Ministério do Esporte foi publicado em dezembro daquele ano, com base em números de junho/julho.
-**- Investimento (1/2022):** O montante aplicado para o projeto até janeiro de 2022.
-**- Banco Financiador:** Vários projetos contaram com o financiamento do Banco Nacional do Desenvolvimento (BNDES) ou da Caixa Econômica Federal. A itenção é assinalar quais deles contaram com esse aporte.
-**- Valor do Financiamento:** Qual foi o montante financiado para o projeto.
-**- Contrato Financiamento:** Número do contrato do empreendimento junto ao BNDES ou à Caixa. 
+**- Empreendimento:** É o nome do projeto.  
+**- Sede:** Em qual cidade-sede a intervenção foi tocada.  
+**- Área:** O tipo do projeto. Pode ser estádio, mobilidade urbana, aeroporto, portos, segurança, telecomunicações, turismo, energia e instalações complementares.  
+**- Ente Responsável:** Qual era o integrante do poder público ou o representante do setor privado responsável por concretrizar o projeto. Há casos em que essa atribuição foi compartilhada.  
+**- Status na Copa (2014):** Qual era a situação do projeto na época da realização da Copa do Mundo. O empreendimento poderia estar concluído, entregue (sem estar 100% finalizado), não entregue, alterado, retirado da Matriz de Responsabilidade (mas tocado em outro programa) e abandonado.  
+**- Status em 2022:** Qual foi o fim do projeto oito anos depois. As classificações são: abandonado, retirado, paralisado, entregue (sem estar completo), em execução (obras em andamento) e concluído.   
+**- Início das obras:** Marca a data de início da construção ou da prestação do serviço.  
+**- Fim das obras:** Quando os trabalhos foram finalizados.  
+**- Orçamento Inicial:** Qual era a estimativa de custo do projeto na primeira versão da Matriz de Responsabilidades, entre 2010 e 2011.  
+**- Orçamento (12/2014):** Qual era a previsão de gasto com tal empreendimento no ano da Copa. O balanço do Ministério do Esporte foi publicado em dezembro daquele ano, com base em números de junho/julho.  
+**- Investimento (1/2022):** O montante aplicado para o projeto até janeiro de 2022.  
+**- Banco Financiador:** Vários projetos contaram com o financiamento do Banco Nacional do Desenvolvimento (BNDES) ou da Caixa Econômica Federal. A itenção é assinalar quais deles contaram com esse aporte.  
+**- Valor do Financiamento:** Qual foi o montante financiado para o projeto.  
+**- Contrato Financiamento:** Número do contrato do empreendimento junto ao BNDES ou à Caixa.   
