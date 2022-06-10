@@ -15,7 +15,7 @@ Abaixo, algumas explicações sobre a categorização dos projetos:
 - Status na Copa (2014): Qual era a situação do projeto na época da realização da Copa do Mundo. O empreendimento poderia estar concluído, entregue (sem estar 100% finalizado), não entregue, alterado, retirado da Matriz de Responsabilidade (mas tocado em outro programa) e abandonado. 
 - Status em 2022: Qual foi o fim do projeto oito anos depois. As classificações são: abandonado, retirado, paralisado, entregue (sem estar completo), em execução (obras em andamento) e concluído. 
 - Início das obras: Marca a data de início da construção ou da prestação do serviço.
-- Término das obras: Quando os trabalhos foram finalizados.
+- Fim das obras: Quando os trabalhos foram finalizados.
 - Orçamento Inicial: Qual era a estimativa de custo do projeto na primeira versão da Matriz de Responsabilidades, entre 2010 e 2011.
 - Orçamento (12/2014): Qual era a previsão de gasto com tal empreendimento no ano da Copa. O balanço do Ministério do Esporte foi publicado em dezembro daquele ano, com base em números de junho/julho.
 - Investimento (1/2022): O montante aplicado para o projeto até janeiro de 2022.
